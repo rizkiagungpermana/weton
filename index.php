@@ -301,17 +301,17 @@ if (isset($_POST['submit'])) {
                             break;
                         case 'Ratu':
                             $x = "Ratu";
-                            $y = "Identik dengan sosok yang dihormati. Pasangan ini bisa dikatakan sudah cocok dan berjodoh. Sangat dihargai dan disegani oleh tetangga maupun lingkungan sekitar. Bahkan tak sedikit orang sekitar yang iri dengan keharmonisannya dalam membina rumah tangga.";
+                            $y = "Begitu identik dengan sosok yang dihormati. Pasangan ini bisa dikatakan sudah cocok dan berjodoh. Sangat dihargai dan disegani oleh tetangga maupun lingkungan sekitar. Bahkan tak sedikit orang sekitar yang iri dengan keharmonisannya dalam membina rumah tangga.";
                             $z = "alert-success";
                             break;
                         case 'Jodoh':
                             $x = "Jodoh";
-                            $y = "Pasangan ini memang ditakdirkan berjodoh. Mereka bisa saling menerima segala kekurangan maupun kelebihan masing2. Nasib rumah tangga dapat harmonis sampai tua.";
+                            $y = "Pasangan ini memang ditakdirkan untuk berjodoh. Mereka bisa saling menerima segala kekurangan maupun kelebihan masing2. Nasib rumah tangga dapat harmonis sampai tua.";
                             $z = "alert-success";
                             break;
                         case 'Topo':
                             $x = "Topo";
-                            $y = "Dalam bahasa jawa bisa diartikan bertirakat. Pasangan ini akan sering mengalami kesusahan di awal-awal membina rumah tangga, namun pada akhirnya akan bahagia. Persoalan rumah tangga bisa dari ekonomi dan lain sebagainya. Tapi setelah mempunyai anak dan cukup lama berumah tangga, hidupnya akan sukses serta bahagia.";
+                            $y = "Dalam bahasa jawa dapat diartikan bertirakat. Pasangan ini akan sering mengalami kesusahan di awal-awal membina rumah tangga, namun pada akhirnya akan bahagia. Persoalan rumah tangga bisa dari ekonomi dan lain sebagainya. Tapi setelah mempunyai anak dan cukup lama berumah tangga, hidupnya akan sukses serta bahagia.";
                             $z = "alert-warning";
                             break;
                         case 'Tinari':
@@ -326,7 +326,7 @@ if (isset($_POST['submit'])) {
                             break;
                         case 'Sujanan':
                             $x = "Sujanan";
-                            $y = "Rumah tangga ini akan sering mengalami percekcokan & masalah perselingkuhan.";
+                            $y = "Rumah tangga ini nantinya akan akan sering mengalami percekcokan & masalah perselingkuhan.";
                             $z = "alert-danger";
                             break;
                         case 'Pesthi':
