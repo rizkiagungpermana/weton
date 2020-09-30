@@ -296,42 +296,42 @@ if (isset($_POST['submit'])) {
                     switch ($weton) {
                         case 'Pegat':
                             $x = "Pegat / Pegatan";
-                            $y = "Dalam bahasa jawa berarti bercerai. Pasangan ini kemungkinan akan sering menghadapi masalah dikemudian hari. Masalah itu bisa dari masalah ekonomi, perselingkuhan, kekuasaan yang bisa menyebabkan perceraian.";
+                            $y = "Dalam bahasa jawa yang artinya bercerai. Pasangan ini kemungkinan akan sering menghadapi masalah dikemudian hari. Masalah itu bisa dari masalah ekonomi, perselingkuhan, kekuasaan yang bisa menyebabkan perceraian.";
                             $z = "alert-danger";
                             break;
                         case 'Ratu':
                             $x = "Ratu";
-                            $y = "Identik dengan sosok yang dihormati. Pasangan ini bisa dikatakan sudah cocok dan berjodoh. Sangat dihargai dan disegani oleh tetangga maupun lingkungan sekitar. Bahkan tak sedikit orang sekitar yang iri dengan keharmonisannya dalam membina rumah tangga.";
+                            $y = "Identik dengan sosok yang selalu dihormati. Pasangan ini bisa dikatakan sudah cocok dan berjodoh. Sangat dihargai dan disegani oleh tetangga maupun lingkungan sekitar. Bahkan tak sedikit orang sekitar yang iri dengan keharmonisannya dalam membina rumah tangga.";
                             $z = "alert-success";
                             break;
                         case 'Jodoh':
                             $x = "Jodoh";
-                            $y = "Pasangan ini memang ditakdirkan berjodoh. Mereka bisa saling menerima segala kekurangan maupun kelebihan masing2. Nasib rumah tangga dapat harmonis sampai tua.";
+                            $y = "Pasangan ini memanglah ditakdirkan berjodoh. Mereka bisa saling menerima segala kekurangan maupun kelebihan masing2. Nasib rumah tangga dapat harmonis sampai tua.";
                             $z = "alert-success";
                             break;
                         case 'Topo':
                             $x = "Topo";
-                            $y = "Dalam bahasa jawa bisa diartikan bertirakat. Pasangan ini akan sering mengalami kesusahan di awal-awal membina rumah tangga, namun pada akhirnya akan bahagia. Persoalan rumah tangga bisa dari ekonomi dan lain sebagainya. Tapi setelah mempunyai anak dan cukup lama berumah tangga, hidupnya akan sukses serta bahagia.";
+                            $y = "Dalam bahasa jawa bisa diartikan sebagai bertirakat. Pasangan ini akan sering mengalami kesusahan di awal-awal membina rumah tangga, namun pada akhirnya akan bahagia. Persoalan rumah tangga bisa dari ekonomi dan lain sebagainya. Tapi setelah mempunyai anak dan cukup lama berumah tangga, hidupnya akan sukses serta bahagia.";
                             $z = "alert-warning";
                             break;
                         case 'Tinari':
                             $x = "Tinari";
-                            $y = "Pasangan ini akan mendapatkan kebahagiaan. Kemudahan dalam mencari rezeki dan tidak akan hidup berkekurangan. Hidupnya juga diliputi keberuntungan.";
+                            $y = "Pasangan ini akan mendapatkan kebahagiaan nantinya. Kemudahan dalam mencari rezeki dan tidak akan hidup berkekurangan. Hidupnya juga diliputi keberuntungan.";
                             $z = "alert-success";
                             break;
                         case 'Padu':
                             $x = "Padu";
-                            $y = "Padu dalam bahasa jawa berarti cekcok atau pertengkaran. Rumah tangga pasangan ini akan sering mengalami pertikaian atau pertengkaran. Meski sering terjadi pertengkaran, nasib rumah tangga tidak sampai bercerai. Pertengkaran ini bahkan dipicu dari hal-hal yang bersifat sepele.";
+                            $y = "Padu dalam bahasa jawa artinya cekcok atau pertengkaran. Rumah tangga pasangan ini akan sering mengalami pertikaian atau pertengkaran. Meski sering terjadi pertengkaran, nasib rumah tangga tidak sampai bercerai. Pertengkaran ini bahkan dipicu dari hal-hal yang bersifat sepele.";
                             $z = "alert-danger";
                             break;
                         case 'Sujanan':
                             $x = "Sujanan";
-                            $y = "Rumah tangga ini akan sering mengalami percekcokan & masalah perselingkuhan.";
+                            $y = "Rumah tangga ini lebih akan sering mengalami percekcokan & masalah perselingkuhan.";
                             $z = "alert-danger";
                             break;
                         case 'Pesthi':
                             $x = "Pesthi";
-                            $y = "Rumah tangga akan berjalan dgn sgt harmonis, rukun, adem, ayem, tenteram & sejahtera sampai tua. Bisa dikatakan jika ada sedikit masalah namun tidak megganggu keharmonisan.";
+                            $y = "Rumah tangga akan berjalan dengan sangat harmonis, rukun, adem, ayem, tenteram & sejahtera sampai tua. Bisa dikatakan jika ada sedikit masalah namun tidak megganggu keharmonisan.";
                             $z = "alert-success";
                             break;
                     }
